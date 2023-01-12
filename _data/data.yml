@@ -22,18 +22,23 @@ education:
     university: Punjab University (PUCIT, Lahore)
 
 skills:
-  - category: Backend
+  - category: Application Security
     skill:
-      - Go
-      - Rust
-  - category: Frontend
+      - SAST
+      - DAST
+      - Web Security
+      - Mobile Security
+  - category: Cloud Security
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - Azure
+      - Defender for Cloud
+      - Azure Resource Graph Explorer
+  - category: Programming
     skill:
-      - Docker
-      - Kubernetes
+      - Python
+      - JavaScript
+      - C#
+      - Java
 
 # Profile
 profile: |
@@ -47,15 +52,12 @@ experience:
     details: |
       I am currently working as a Security Engineer at Contour Software, as part of the Perseus Group where I am responsible for handling the red team operations and conducting vulnerability assessment and penetration testing (VAPT) for three business units, Charter Software, Ideal, C-Systems. My primary expertise is in conducting vulnerability assessment and penetration testing (VAPT) and red team operations and also securing Azure infrastructure. In this role, I am responsible for identifying and mitigating security risks in the organization's systems and networks, and ensuring the security of the Azure infrastructure.
 
-    technologies_used: |
-
 
   - role: Application Security Engineer
     time: December 2021 - October 2022
     company: Systems Ltd
     details: |
       I had the opportunity to work as an Application Security Engineer at Systems Ltd, where I was responsible for ensuring the security of the organization's web applications. My primary expertise was in performing static application security testing (SAST), vulnerability assessment and penetration testing (VAPT) and also performed red teaming. During my tenure, I was responsible for identifying and mitigating security risks in the organization's systems and networks by mimicking the actions of a malicious attacker.
-    technologies_used: |
 
   - role: Software Engineer
     time: May 2021 - December 2021
