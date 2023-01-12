@@ -17,13 +17,9 @@ languages:
   - idiom: Punjabi
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: BS Software Engineer
+    time: 2017-2021
+    university: Punjab University (PUCIT, Lahore)
 
 skills:
   - category: Backend
@@ -41,68 +37,50 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-  fugiat nulla pariatur.
+  Highly skilled and experienced Security Engineer with expertise in Vulnerability Assessment and Penetration Testing (VAPT), cloud computing, source code review and bug bounty hunting. Proven ability to identify and mitigate security risks in systems and networks through a combination of manual and automated methods. Strong background in software development and contributions to free and open-source software (FOSS). Skilled in performing source code review, identifying vulnerabilities, and participating in bug bounty programs. Adept at designing and implementing security controls, creating security policies and procedures. Looking to leverage experience and skills in a challenging role as a Penetration Tester, Security Consultant, Cloud Security Engineer, or Security Engineer.
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Security Engineer - Red Team (Cloud Security & VA/PT)
+    time: October 2022 - Present
+    company: Contour Software
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-      fugiat nulla pariatur.
+      I am currently working as a Security Engineer at Contour Software, as part of the Perseus Group where I am responsible for handling the red team operations and conducting vulnerability assessment and penetration testing (VAPT) for three business units, Charter Software, Ideal, C-Systems. My primary expertise is in conducting vulnerability assessment and penetration testing (VAPT) and red team operations and also securing Azure infrastructure. In this role, I am responsible for identifying and mitigating security risks in the organization's systems and networks, and ensuring the security of the Azure infrastructure.
     technologies_used: |
       Go, Angular, Typescript, C++
 
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Application Security Engineer
+    time: December 2021 - October 2022
+    company: Systems Ltd
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-      fugiat nulla pariatur.
+      I had the opportunity to work as an Application Security Engineer at Systems Ltd, where I was responsible for ensuring the security of the organization's web applications. My primary expertise was in performing static application security testing (SAST), vulnerability assessment and penetration testing (VAPT) and also performed red teaming. During my tenure, I was responsible for identifying and mitigating security risks in the organization's systems and networks by mimicking the actions of a malicious attacker.
     technologies_used: |
       Python, Tensorflow, Keras, Matlab
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+  - role: Software Engineer
+    time: May 2021 - December 2021
+    company: Tkxel
+    details: |
+      I had the opportunity to work as a Software Engineer at Tkxel, where I was responsible for the development of web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). During my tenure, I was involved in the entire software development life cycle and had the opportunity to work on projects from requirements gathering to deployment.
+    technologies_used: |
+      ReactJS, ExpressJS, TypeORM, MySQL, NodeJS, AWS S3, AWS SES, Javascript, Typescript
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+publications:
+  - title: GraphQL in Scope "An In-depth approach on how GraphQL can be exploited"
+    link: https://mega.nz/file/KGwl0Q5B#I2Mn4a2211iFl8syn3J-XKe6tSjs15uLqcDMYPTLI-M
+    authors: Najam Ul Saqib
+    conference:
 
 projects:
-  - title: Cool Project
-    link: #
+  - title: Damn Vulnerable Electron App - DVEA
+    link: https://github.com/njmulsqb/DVEA
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+       I am the author of DVEA which is a project built for security engineers and software developers that are looking to learn about vulnerabilities found in ElectronJS and how can they be exploited
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+  - time: 2021 - Present
+    role: Open Source Contributor
+    company: Github
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      I have been contributing to various open source projects that includes but not limited to OWASP Zaproxy. I have PRs for various security and non-security repositories that can be checked on my Github Profile
