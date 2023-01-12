@@ -46,6 +46,25 @@ experience:
     company: Contour Software
     details: |
       I am currently working as a Security Engineer at Contour Software, as part of the Perseus Group where I am responsible for handling the red team operations and conducting vulnerability assessment and penetration testing (VAPT) for three business units, Charter Software, Ideal, C-Systems. My primary expertise is in conducting vulnerability assessment and penetration testing (VAPT) and red team operations and also securing Azure infrastructure. In this role, I am responsible for identifying and mitigating security risks in the organization's systems and networks, and ensuring the security of the Azure infrastructure.
+        - Reviews current corporate policies and helps redefine policies and procedures
+          - Manages security monitoring and threat detection systems for cloud environments
+          - Supports cloud compliance/certification activities and participates in security audits/reviews.
+          - Provides consulting and influences other teams to mature cloud/DevOps security.
+          - Serves as a security expert and provides technical leadership to other staff members.
+          - Conducts security reviews of web applications, services, integrations, and APIs
+          - Pinpoints methods and attack surfaces attackers use to exploit weaknesses and logic flaws
+          - Conducts Cloud & Network infrastructure reviews, Systems infrastructure, Application configurations, and Software Code reviews.
+          - Reviews maintain and enhance current scanning and testing tools
+          - Verifies security vulnerabilities identified by automated tools
+          - Performs manual testing to supplement results of automated scanning and testing tools
+          - Documents identified security vulnerabilities and related matters in a clear, concise, and timely manner
+          - Meet with the operations and application teams to review and explain identified security vulnerabilities and possible remediation
+          - Resolves issues and provides statuses that may impact testing
+          - Applies fixes and remediation for detected vulnerabilities to maintain a high-security standard
+          - Organizes/facilitates retest of infrastructure, system, and application updates or deployed remediation logic to verify resolution of security vulnerabilities
+          - Maintains confidentiality of authentication credentials, sensitive application information, and test results before, during, and after completing testing and/or retesting
+          - Investigates potential security breaches and other cybersecurity incidents
+          - Works with R&D, Cloud, Support, and QA Teams to perform tests and uncover potential network/systems/application
     technologies_used: |
       Go, Angular, Typescript, C++
 
