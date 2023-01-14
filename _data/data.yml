@@ -22,6 +22,13 @@ education:
     university: Punjab University (PUCIT, Lahore)
 
 skills:
+  - category: general
+    skill:
+      - Penetration Testing
+      - Threat Modeling
+      - Red Teaming
+      - Vulnerability Assessment
+      - Incident Response
   - category: Application Security
     skill:
       - SAST
@@ -83,6 +90,13 @@ projects:
     link: https://github.com/njmulsqb/DVEA
     details: |
        I am the author of DVEA which is a project built for security engineers and software developers that are looking to learn about vulnerabilities found in ElectronJS and how can they be exploited
+
+certifications:
+  - title: Damn Vulnerable Electron App - DVEA
+    link: https://github.com/njmulsqb/DVEA
+    details: |
+       I am the author of DVEA which is a project built for security engineers and software developers that are looking to learn about vulnerabilities found in ElectronJS and how can they be exploited
+
 
 # Volunteering
 volunteering:
