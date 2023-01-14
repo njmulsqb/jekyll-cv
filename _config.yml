@@ -1,7 +1,7 @@
 title: CV | Najam Ul Saqib
 description:  My resume made with jekyll
-# url: https://njmulsqb.github.io/my-resume
-# baseurl: ''
+url: https://njmulsqb.github.io/my-resume
+baseurl: ''
 theme_skin: blue
 
 sass:
