@@ -28,6 +28,7 @@ skills:
       - Secure SDLC
       - Microservices Architecture
       - MongoDB / Realm App Services
+      - DevSecOps
   - category: Cloud
     skill:
       - Azure (Logic Apps, Function Apps, Web Apps, Blob Storage, etc)
@@ -46,7 +47,7 @@ skills:
 
 # Profile
 profile: |
-  Highly skilled and experienced Security Engineer with expertise in Vulnerability Assessment and Penetration Testing (VAPT), cloud computing, source code review and bug bounty hunting. Proven ability to identify and mitigate security risks in systems and networks through a combination of manual and automated methods. Strong background in software development and contributions to free and open-source software (FOSS). Skilled in performing source code review, identifying vulnerabilities, and participating in bug bounty programs. Adept at designing and implementing security controls, creating security policies and procedures. Looking to leverage experience and skills in a challenging role as a Penetration Tester, Security Consultant, Cloud Security Engineer, or Security Engineer.
+  Experienced full-stack developer with a passion for open-source software (FOSS) and a diverse skill set across MERN stack, Python, .NET, and Java. Proficient in designing and implementing robust solutions using secure coding practices and a thorough understanding of secure software development lifecycle (SDLC). Adept at creating user-centric applications by blending modern technologies with a security-first mindset. Actively contribute to FOSS projects, reflecting a commitment to innovation and collaborative development. Known for delivering high-quality code while emphasizing performance and maintainability. Eager to apply my skills to a team that values innovation, security, and community-driven progress.
 
 # Experience
 experience:
