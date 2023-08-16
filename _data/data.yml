@@ -29,6 +29,7 @@ skills:
       - Microservices Architecture
       - MongoDB / Realm App Services
       - DevSecOps
+      - Github/Bitbucket/Azure DevOps/Gitlab
   - category: Cloud
     skill:
       - Azure (Logic Apps, Function Apps, Web Apps, Blob Storage, etc)
