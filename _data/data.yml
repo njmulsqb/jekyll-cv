@@ -75,6 +75,14 @@ publications:
     conference:
 
 projects:
+  - title: PayQual
+    details: |
+        PayQual is an cross platform mobile app built with React Native, the backend was built with ExpressJS and app consumed REST API. App was made as offline first using MongoDB Realm Device Sync. Expo was used as React Native wrapper. The app is currently in development so code is private.
+
+  - title: NodeJS API for ZAP
+    link: https://www.npmjs.com/package/zaproxy
+    details: |
+        I have released the latest version of ZAP's NodeJS API which is a widely known web security scanner.
   - title: Damn Vulnerable Electron App - DVEA
     link: https://github.com/njmulsqb/DVEA
     details: |
