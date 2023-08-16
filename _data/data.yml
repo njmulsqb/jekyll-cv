@@ -22,28 +22,25 @@ education:
     university: Punjab University (PUCIT, Lahore)
 
 skills:
-  - category: general
+  - category: General
     skill:
-      - Penetration Testing
-      - Threat Modeling
-      - Red Teaming
-      - Vulnerability Assessment
-      - Incident Response
-  - category: Application Security
+      - Agile Development
+      - Secure SDLC
+      - Microservices Architecture
+      - MongoDB / Realm App Services
+  - category: Cloud
     skill:
-      - SAST
-      - DAST
-      - Web Security
-      - Mobile Security
-  - category: Cloud Security
-    skill:
-      - Azure
-      - Defender for Cloud
+      - Azure (Logic Apps, Function Apps, Web Apps, Blob Storage, etc)
+      - AWS (SES, S3, RDS, EFS, EC2, etc)
       - Azure Resource Graph Explorer
-  - category: Programming
+  - category: Languages & Frameworks
     skill:
+      - Backend Frameworks (ExpressJS, NestJS, .NET, Django)
+      - Frontend Frameworks (ReactJS, VueJS, Bootstrap, TailwindCSS, MUI)
+      - React Native
       - Python
       - JavaScript
+      - TypeScript
       - C#
       - Java
 
