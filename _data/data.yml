@@ -84,6 +84,8 @@ projects:
     link: https://www.npmjs.com/package/zaproxy
     details: |
         I have released the latest version of ZAP's NodeJS API which is a widely known web security scanner.
+  - title: TechOnTap
+    link: This is the website me and my team made for a client, it's a PHP-based website. The client wanted a freelance-like platform that works like Upwork. It's also a bidding-based freelance platform for a specified niche. PayPal is integrated as one of the payment methods on the website. It's a complete website in itself.
   - title: Damn Vulnerable Electron App - DVEA
     link: https://github.com/njmulsqb/DVEA
     details: |
