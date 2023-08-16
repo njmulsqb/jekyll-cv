@@ -78,27 +78,32 @@ publications:
 projects:
   - title: PayQual
     details: |
-        PayQual is an cross platform mobile app built with React Native, the backend was built with ExpressJS and app consumed REST API. App was made as offline first using MongoDB Realm Device Sync. Expo was used as React Native wrapper. The app is currently in development so code is private.
+      PayQual is an cross platform mobile app built with React Native, the backend was built with ExpressJS and app consumed REST API. App was made as offline first using MongoDB Realm Device Sync. Expo was used as React Native wrapper. The app is currently in development so code is private.
 
   - title: NodeJS API for ZAP
     link: https://www.npmjs.com/package/zaproxy
     details: |
-        I have released the latest version of ZAP's NodeJS API which is a widely known web security scanner.
+      I have released the latest version of ZAP's NodeJS API which is a widely known web security scanner.
+
+  - title: Terra Virtua
+    link: https://virtua.io
+    details: |
+      This project was built completely using JavaScript. I wrote back-end using Express JS, most of the work done on the back-end included REST APIs that handled the request coming from the front-end. The project was built using different micro-services. Each module has its own micro-service. The language I used on back-end is TypeScript. On front-end, I was provided the HTML, CSS structure by the design team, which I converted into React Components. I used Formik for handling forms on the website. State management was handled with the help of Redux-Saga. I also worked on different Amazon Web Services when working on this project, I designed the email notification micro-service from scratch for this project for which I worked on Amazon SES. Amazon EC2 and Amazon S3 is also used in building this project. Amazon RDS was used to handle the database of this project. In short, I have worked on several AWS services in building this project.
+
   - title: TechOnTap
     details: |
-       This is the website me and my team made for a client, it's a PHP-based website. The client wanted a freelance-like platform that works like Upwork. It's also a bidding-based freelance platform for a specified niche. PayPal is integrated as one of the payment methods on the website. It's a complete website in itself.
-  
+      This is the website me and my team made for a client, it's a PHP-based website. The client wanted a freelance-like platform that works like Upwork. It's also a bidding-based freelance platform for a specified niche. PayPal is integrated as one of the payment methods on the website. It's a complete website in itself.
+
   - title: Damn Vulnerable Electron App - DVEA
     link: https://github.com/njmulsqb/DVEA
     details: |
-       I am the author of DVEA which is a project built for security engineers and software developers that are looking to learn about vulnerabilities found in ElectronJS and how can they be exploited
+      I am the author of DVEA which is a project built for security engineers and software developers that are looking to learn about vulnerabilities found in ElectronJS and how can they be exploited
 
 certifications:
   - title: Damn Vulnerable Electron App - DVEA
     link: https://github.com/njmulsqb/DVEA
     details: |
-       I am the author of DVEA which is a project built for security engineers and software developers that are looking to learn about vulnerabilities found in ElectronJS and how can they be exploited
-
+      I am the author of DVEA which is a project built for security engineers and software developers that are looking to learn about vulnerabilities found in ElectronJS and how can they be exploited
 
 # Volunteering
 volunteering:
