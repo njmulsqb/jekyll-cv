@@ -28,8 +28,7 @@ skills:
       - Secure SDLC
       - Microservices Architecture
       - MongoDB / Realm App Services
-      - DevSecOps
-      - Github/Bitbucket/Azure DevOps/Gitlab
+      - Git
   - category: Cloud
     skill:
       - Azure (Logic Apps, Function Apps, Web Apps, Blob Storage, etc)
@@ -37,26 +36,22 @@ skills:
       - Azure Resource Graph Explorer
   - category: Languages & Frameworks
     skill:
-      - Backend Frameworks (ExpressJS, NestJS, .NET, Django)
+      - Backend Frameworks (ExpressJS, NestJS, Django)
       - Frontend Frameworks (ReactJS, VueJS, Bootstrap, TailwindCSS, MUI)
-      - React Native
       - Python
       - JavaScript
-      - TypeScript
-      - C#
-      - Java
 
 # Profile
 profile: |
-  Experienced full-stack developer with a passion for open-source software (FOSS) and a diverse skill set across MERN stack, Python, .NET, and Java. Proficient in designing and implementing robust solutions using secure coding practices and a thorough understanding of secure software development lifecycle (SDLC). Adept at creating user-centric applications by blending modern technologies with a security-first mindset. Actively contribute to FOSS projects, reflecting a commitment to innovation and collaborative development. Known for delivering high-quality code while emphasizing performance and maintainability. Eager to apply my skills to a team that values innovation, security, and community-driven progress.
+  Experienced full-stack developer with a passion for open-source software (FOSS) and a diverse skill set across MERN stack and Python. Proficient in designing and implementing robust solutions using secure coding practices and a thorough understanding of secure software development lifecycle (SDLC). Adept at creating user-centric applications by blending modern technologies with a security-first mindset. Actively contribute to FOSS projects, reflecting a commitment to innovation and collaborative development. Known for delivering high-quality code while emphasizing performance and maintainability. Eager to apply my skills to a team that values innovation, security, and community-driven progress.
 
 # Experience
 experience:
-  - role: Full Stack Software Developer & Security Engineer
+  - role: Full Stack Software Developer
     time: December 2021 - Present
     company: Upwork
     details: |
-      I am currently working on Upwork as Full stack developer & security engineer under my company Tecvity, my responsibilities include creating robust, optimized and most importantly secure software solutions.
+      I am currently working on Upwork as Full stack developer, my responsibilities include developing robust, optimized and most importantly secure software solutions.
 
     technologies_used: |
       MERN Stack, .NET, Web Security, MongoDB, MySQL, Redux
