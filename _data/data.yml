@@ -37,7 +37,7 @@ skills:
   - category: Languages & Frameworks
     skill:
       - Backend Frameworks (ExpressJS, NestJS, Django)
-      - Frontend Frameworks (ReactJS, VueJS, Bootstrap, TailwindCSS, MUI)
+      - Frontend Frameworks (ReactJS, NextJS, Bootstrap, TailwindCSS, MUI)
       - Python
       - JavaScript
 
